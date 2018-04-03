@@ -13,6 +13,7 @@
       "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {
+        "PROJECT_ID": "jide-build-server",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
@@ -21,6 +22,7 @@
       "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {
+        "PROJECT_ID": "jide-build-server",
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "http://localhost:50276/"
